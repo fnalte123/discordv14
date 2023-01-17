@@ -1,0 +1,28 @@
+{
+    "//first_comment": "GENERAL",
+    
+    "guildid": "1065005673328414791",
+    "clientid": "1008717639142613024",
+    "welcomechannel": "1065025497475596298",
+    "verifyrolle": "1065008243543384165",
+    "verifychannel": "1065008844306120795",
+    "verifymessage": "Welcome to the server! To get access to the server, you must verify yourself by clicking the button below!",
+    
+    "suggestionButtonLabel": "Create suggestion",
+    "forslagMessage": "Created suggestions for the server!",
+
+    "//second_comment": "TICKET SYSTEM",
+
+    "Ticketchannel": "1014533727872880650",
+    "TicketMessage": "Create a ticket by clicking the button below!",
+    "ticketfooter": "Ticket system",
+    "tickettitle": "Ticket system",
+    "ticketBtnLabel": "Create ticket",
+
+    "//third_comment": "TWICH",
+
+    "twitchclientid": "4vhs1geye7iwrmpkvtk59zmzm0ahsj",
+    "twitchSecret": "a905wralcj942e8l8o9156b94rj9nb",
+    "access_token": "0qygt3t21zjnzlapwhgtfalq0qdjhp",
+    "twitchchannel": "1065009177195454566"
+}
