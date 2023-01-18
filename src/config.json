@@ -19,7 +19,13 @@
     "tickettitle": "Ticket system",
     "ticketBtnLabel": "Create ticket",
 
-    "//third_comment": "TWICH",
+
+    "//third_comment": "ECO SYSTEM",
+    "balancedescription": "Shows your balance",
+    "winmessage": "now has:",
+    "dberror": "We couldnt find you in our database, threfore we created a new account for you!",
+
+    "//forth_comment": "TWITCH",
 
     "twitchclientid": "4vhs1geye7iwrmpkvtk59zmzm0ahsj",
     "twitchSecret": "a905wralcj942e8l8o9156b94rj9nb",
